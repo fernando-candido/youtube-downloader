@@ -1,0 +1,9 @@
+Depois de clonar o projeto, realizar o seguinte passo a passo:
+
+- Abrir um terminal na pasta do arquivo.
+- Digitar os comandos:
+
+    pip install pytube
+    pip instalar colorama
+
+rodar o projeto.
